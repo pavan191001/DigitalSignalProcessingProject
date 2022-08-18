@@ -3,9 +3,9 @@ Course name: Digital Signal Processing
 Project name: EEG Signal Analysis
 
 Group members:
+-> Kakarla Venkata Sesha Sai Pavanteja
 -> Kamarthi Litheesh Kumar
 -> Kamalapuram Sreenivasulu Reddy
--> Kakarla Venkata Sesha Sai Pavanteja
 
 Abstract:
 -> EEG bands are extracted from EEG signals using wavelet transform.
